@@ -1,0 +1,14 @@
+{
+  "name": "angularPlayground",
+  "description": "A series of AngularJS exploratory/starter projects",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bobhunsicker/angularPlayground",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "angular-loader": "1.2.x",
+    "angular-mocks": "~1.2.15"
+  }
+}
